@@ -13,5 +13,11 @@
     "pergunta": "Qual clube venceu a UEFA Champions League em 2018?",
     "respostas": ["Real Madrid", "Liverpool", "Bayern Munich", "Juventus"],
     "correta": 0
+  },
+  {
+    "pergunta": "Qual clube venceu a UEFA Champions League em 2025?",
+    "respostas": ["Real Madrid", "Paris Saint German", "Bayern Munich", "Internazionale"],
+    "correta": 0
   }
+  
 ]
